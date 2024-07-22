@@ -1,7 +1,7 @@
 {
-  "name": "cowpea",
-  "version": "1.6.0",
-  "description": "Find synonyms that rhyme, a tool for poets.",
+  "name": "doorange",
+  "version": "1.0.0",
+  "description": "Find rhyming words and synonyms - a lyricist's best friend.",
   "main": "index.js",
   "dependencies": {
     "rhyme": "^0.0.3",
@@ -15,16 +15,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fantasyui-com/cowpea.git"
+    "url": "git+https://github.com/siyrissoul/doorange.git"
   },
   "keywords": [
     "poetry",
     "rhyme"
   ],
-  "author": "fantasyui.com <fantasyui.com@gmail.com>",
+  "author": "siyrian.com <siyris@siyrian.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fantasyui-com/cowpea/issues"
+    "url": "https://github.com/siyrissoul/doorange/issues"
   },
-  "homepage": "https://github.com/fantasyui-com/cowpea#readme"
+  "homepage": "https://github.com/siyrissoul/doorange#readme"
 }
